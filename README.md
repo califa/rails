@@ -98,6 +98,6 @@ Everyone interacting in Rails and its sub-projects' codebases, issue trackers, c
 
 [![Build Status](https://badge.buildkite.com/ab1152b6a1f6a61d3ea4ec5b3eece8d4c2b830998459c75352.svg?branch=master)](https://buildkite.com/rails/rails)
 
-## License
+## Licens
 
 Ruby on Rails is released under the [MIT License](https://opensource.org/licenses/MIT).
