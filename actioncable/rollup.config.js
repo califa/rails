@@ -6,7 +6,8 @@ const uglifyOptions = {
   compress: false,
   output: {
     beautify: true,
-    indent_level: 2
+    indent_level: 2,
+    test: true
   }
 }
 
